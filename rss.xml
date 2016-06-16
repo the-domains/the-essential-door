@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Essential Door]]></title>
+        <description><![CDATA[The Essential Door]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 16 Jun 2016 02:16:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Through the Essential Door we are led to rediscover our passion, purpose, and dreams. </p>]]></description>
+            <link>undefinedthrough-the-essential-door-we-are-led-to-rediscover-our-pass/index.html</link>
+            <guid isPermaLink="false">8bc9d439-9818-46a3-a7ea-051826b87539</guid>
+            <pubDate>Thu, 16 Jun 2016 02:16:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
