@@ -1,0 +1,28 @@
+name: The Essential Door
+favicon: null
+layout_spectrum: 0.5324457020033151
+typography_spectrum: 0.9442849478218704
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.4229643582366407
+  lightness: 0.19927864708006382
+  saturation: 0.855787503067404
+  rhythmicContrast: 0.6587001972366124
+purpose: []
